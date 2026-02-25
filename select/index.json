@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラベンダー（feat. saewool）",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-25T05:49:26.709433Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラベンダー (feat. saewool)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_ラベンダー_(feat._saewool)_MIMI.txt"
+    }
+  ]
+}
